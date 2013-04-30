@@ -1,0 +1,16 @@
+Comparing Results for /home/ndauten/Desktop/data/unknown3-1
+Total Packets: 166.000000
+Fingerprint,KL-Divergence,Number of Packets,Total Packet Deviation,Match
+Tsquare-cache,0.513494,134.000000,32.000000,no
+amazon,0.165355,210.000000,44.000000,no
+apple,0.005171,121.000000,45.000000,no
+ask,0.126522,98.000000,68.000000,no
+ask_woocomp,0.007074,90.000000,76.000000,no
+espn_woocomp,0.267895,253.000000,87.000000,no
+facebook-caceh,0.167109,24.000000,142.000000,no
+facebook_woocomp,0.236461,21.000000,145.000000,no
+fox,0.170445,347.000000,181.000000,no
+meebo,0.005930,153.000000,13.000000,yes
+msn_woocomp,0.223970,216.000000,50.000000,no
+yahoo-cache,0.246378,117.000000,49.000000,yes
+yahoo_woocomp,0.196742,142.000000,24.000000,yes

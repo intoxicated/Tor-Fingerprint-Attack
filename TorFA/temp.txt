@@ -1,0 +1,36 @@
+Comparing Results for ./dataCollection/Experiment3/microsoft/micro4
+Total Packets: 149.000000
+Fingerprint,KL-Divergence,Number of Packets,Total Packet Deviation,Standard Deviation Match, Variance Match
+amazon,	0.013474,	210.000000,	61.000000,	no,	yes
+
+apple,	0.081122,	121.000000,	28.000000,	no,	yes
+
+ask,	0.010746,	98.000000,	51.000000,	no,	no
+
+ask_woocomp,	0.068660,	90.000000,	59.000000,	no,	yes
+
+espn_woocomp,	0.036975,	253.000000,	104.000000,	no,	yes
+
+facebook-caceh,	0.034419,	24.000000,	125.000000,	no,	no
+
+facebook_woocomp,	0.024775,	21.000000,	128.000000,	no,	no
+
+fox,	0.014548,	347.000000,	198.000000,	no,	yes
+
+gmail,	0.031258,	26.000000,	123.000000,	no,	no
+
+google_woocomp,	0.078307,	24.000000,	125.000000,	no,	no
+
+meebo,	0.053014,	153.000000,	4.000000,	yes,	yes
+
+msn_woocomp,	0.021669,	216.000000,	67.000000,	no,	yes
+
+Tsquare-cache,	0.151402,	134.000000,	15.000000,	yes,	yes
+
+twitter,	0.029702,	42.000000,	107.000000,	no,	no
+
+yahoo-cache,	0.034855,	117.000000,	32.000000,	yes,	yes
+
+yahoo_woocomp,	0.012474,	142.000000,	7.000000,	yes,	yes
+
+

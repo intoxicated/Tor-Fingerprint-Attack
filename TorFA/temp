@@ -1,0 +1,19 @@
+Comparing Results for ./dataCollection/Experiment1/apple/apple9
+Total Packets: 128.000000
+Fingerprint,KL-Divergence,Number of Packets,Total Packet Deviation,Standard Deviation Match, Variance Match
+amazon,0.145935,210.000000,82.000000,no,yes
+apple,0.004961,121.000000,7.000000,yes,yes
+ask,0.094323,98.000000,30.000000,no,no
+ask_woocomp,0.013518,90.000000,38.000000,yes,yes
+espn_woocomp,0.228522,253.000000,125.000000,no,yes
+facebook-caceh,0.144343,24.000000,104.000000,no,no
+facebook_woocomp,0.219516,21.000000,107.000000,no,no
+fox,0.153729,347.000000,219.000000,no,yes
+gmail,0.037335,26.000000,102.000000,no,no
+google_woocomp,0.020324,24.000000,104.000000,no,no
+meebo,0.015407,153.000000,25.000000,no,yes
+msn_woocomp,0.210252,216.000000,88.000000,no,yes
+Tsquare-cache,0.458663,134.000000,6.000000,yes,yes
+twitter,0.033767,42.000000,86.000000,no,no
+yahoo-cache,0.230741,117.000000,11.000000,yes,yes
+yahoo_woocomp,0.168784,142.000000,14.000000,yes,yes

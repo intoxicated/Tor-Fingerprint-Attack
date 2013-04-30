@@ -1,0 +1,18 @@
+Comparing Results for /home/ndauten/Desktop/data/testGMAIL
+Total Packets: 31.000000
+Fingerprint,KL-Divergence,Number of Packets,Total Packet Deviation,Match
+Tsquare-cache,0.239565,134.000000,103.000000,no
+amazon,0.037328,210.000000,179.000000,no
+apple,0.042231,121.000000,90.000000,no
+ask,0.016956,98.000000,67.000000,no
+ask_woocomp,0.051110,90.000000,59.000000,no
+espn_woocomp,0.088677,253.000000,222.000000,no
+facebook-caceh,0.035399,24.000000,7.000000,yes
+facebook_woocomp,0.080538,21.000000,10.000000,no
+fox,0.040996,347.000000,316.000000,no
+meebo,0.025292,153.000000,122.000000,no
+msn_woocomp,0.075125,216.000000,185.000000,no
+yahoo-cache,0.082400,117.000000,86.000000,yes
+yahoo_woocomp,0.060205,142.000000,111.000000,no
+gmail,0.017170,26.000000,5.000000,yes
+google_woocomp,0.047682,24.000000,7.000000,yes

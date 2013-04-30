@@ -1,0 +1,19 @@
+Comparing Results for /home/ndauten/Desktop/data/testTWIT
+Total Packets: 38.000000
+Fingerprint,KL-Divergence,Number of Packets,Total Packet Deviation,Standard Deviation Match, Variance Match
+Tsquare-cache,0.256578,134.000000,96.000000,no,no
+amazon,0.041175,210.000000,172.000000,no,yes
+apple,0.033110,121.000000,83.000000,no,yes
+ask,0.023703,98.000000,60.000000,no,no
+ask_woocomp,0.036430,90.000000,52.000000,no,yes
+espn_woocomp,0.097562,253.000000,215.000000,no,yes
+facebook-caceh,0.044088,24.000000,14.000000,yes,yes
+facebook_woocomp,0.082033,21.000000,17.000000,no,no
+fox,0.044116,347.000000,309.000000,no,yes
+meebo,0.014791,153.000000,115.000000,no,no
+msn_woocomp,0.075585,216.000000,178.000000,no,yes
+yahoo-cache,0.086021,117.000000,79.000000,yes,yes
+yahoo_woocomp,0.062580,142.000000,104.000000,no,yes
+gmail,0.026609,26.000000,12.000000,no,no
+google_woocomp,0.032626,24.000000,14.000000,yes,yes
+twitter,0.001793,42.000000,4.000000,yes,yes

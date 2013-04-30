@@ -1,0 +1,18 @@
+Comparing Results for /home/ndauten/Desktop/data/testAMAZON
+Total Packets: 267.000000
+Fingerprint,KL-Divergence,Number of Packets,Total Packet Deviation,Match
+Tsquare-cache,0.098651,134.000000,133.000000,no
+amazon,0.002303,210.000000,57.000000,no
+apple,0.135219,121.000000,146.000000,no
+ask,0.013792,98.000000,169.000000,no
+ask_woocomp,0.129631,90.000000,177.000000,no
+espn_woocomp,0.018367,253.000000,14.000000,yes
+facebook-caceh,0.015506,24.000000,243.000000,no
+facebook_woocomp,0.005851,21.000000,246.000000,no
+fox,0.001488,347.000000,80.000000,no
+meebo,0.093321,153.000000,114.000000,no
+msn_woocomp,0.003972,216.000000,51.000000,yes
+yahoo-cache,0.007275,117.000000,150.000000,no
+yahoo_woocomp,0.010387,142.000000,125.000000,no
+gmail,0.064260,26.000000,241.000000,no
+google_woocomp,0.127262,24.000000,243.000000,no

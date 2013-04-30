@@ -1,0 +1,16 @@
+Comparing Results for ../TestData/yes-cache/Tsquare-cache/ts-c2
+Total Packets: 138.000000
+Fingerprint,KL-Divergence,Number of Packets,Total Packet Deviation,Within Variance
+Tsquare-cache,0.159387,134.000000,4.000000,yes
+amazon,0.208367,210.000000,72.000000,no
+apple,0.601952,121.000000,17.000000,yes
+ask,0.293643,98.000000,40.000000,no
+ask_woocomp,0.616909,90.000000,48.000000,no
+espn_woocomp,0.210448,253.000000,115.000000,no
+facebook-caceh,0.194256,24.000000,114.000000,no
+facebook_woocomp,0.174219,21.000000,117.000000,no
+fox,0.196737,347.000000,209.000000,no
+meebo,0.491644,153.000000,15.000000,yes
+msn_woocomp,0.174522,216.000000,78.000000,no
+yahoo-cache,0.138678,117.000000,21.000000,yes
+yahoo_woocomp,0.261005,142.000000,4.000000,yes

@@ -1,0 +1,680 @@
+
+Experiment 1
+	Add Probability: 0.0
+	Drop Probability: 0.0
+	Range 1 Count: 64.4957
+	Range 2 Count: 6.0
+	Range 3 Count: 6.0
+	Range 4 Count: 55.0
+	Finish time: 7.5
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.800170
+	 tmp                 ==>    KL-Divergence is:   0.051420
+	 facebook            ==>    KL-Divergence is:   0.210177
+	 msn                 ==>    KL-Divergence is:   0.218817
+	 espn_woocomp        ==>    KL-Divergence is:   0.181500
+	 tsquare             ==>    KL-Divergence is:   0.051420
+	 facebook_woocomp    ==>    KL-Divergence is:   0.208184
+	 yahoo-cache         ==>    KL-Divergence is:   0.166788
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.281786
+
+Experiment 2
+	Add Probability: 0.05
+	Drop Probability: 0.0
+	Range 1 Count: 74.3363
+	Range 2 Count: 6.3088
+	Range 3 Count: 6.8702
+	Range 4 Count: 64.0416
+	Finish time: 7.5
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.839947
+	 tmp                 ==>    KL-Divergence is:   0.057687
+	 facebook            ==>    KL-Divergence is:   0.226473
+	 msn                 ==>    KL-Divergence is:   0.237456
+	 espn_woocomp        ==>    KL-Divergence is:   0.197446
+	 tsquare             ==>    KL-Divergence is:   0.057687
+	 facebook_woocomp    ==>    KL-Divergence is:   0.226246
+	 yahoo-cache         ==>    KL-Divergence is:   0.182499
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.303091
+
+Experiment 3
+	Add Probability: 0.1
+	Drop Probability: 0.0
+	Range 1 Count: 86.4444
+	Range 2 Count: 6.6645
+	Range 3 Count: 7.9017
+	Range 4 Count: 75.1009
+	Finish time: 10.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.881246
+	 tmp                 ==>    KL-Divergence is:   0.064735
+	 facebook            ==>    KL-Divergence is:   0.243483
+	 msn                 ==>    KL-Divergence is:   0.257075
+	 espn_woocomp        ==>    KL-Divergence is:   0.214374
+	 tsquare             ==>    KL-Divergence is:   0.064735
+	 facebook_woocomp    ==>    KL-Divergence is:   0.245287
+	 yahoo-cache         ==>    KL-Divergence is:   0.199046
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.325540
+
+Experiment 4
+	Add Probability: 0.15000000000000002
+	Drop Probability: 0.0
+	Range 1 Count: 101.7835
+	Range 2 Count: 7.1154
+	Range 3 Count: 9.2174
+	Range 4 Count: 89.0957
+	Finish time: 10.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.923360
+	 tmp                 ==>    KL-Divergence is:   0.072156
+	 facebook            ==>    KL-Divergence is:   0.260950
+	 msn                 ==>    KL-Divergence is:   0.277283
+	 espn_woocomp        ==>    KL-Divergence is:   0.231789
+	 tsquare             ==>    KL-Divergence is:   0.072156
+	 facebook_woocomp    ==>    KL-Divergence is:   0.264906
+	 yahoo-cache         ==>    KL-Divergence is:   0.216132
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.348568
+
+Experiment 5
+	Add Probability: 0.2
+	Drop Probability: 0.0
+	Range 1 Count: 121.2916
+	Range 2 Count: 7.7344
+	Range 3 Count: 10.8362
+	Range 4 Count: 106.7614
+	Finish time: 12.5
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.962751
+	 tmp                 ==>    KL-Divergence is:   0.079586
+	 facebook            ==>    KL-Divergence is:   0.277388
+	 msn                 ==>    KL-Divergence is:   0.296397
+	 espn_woocomp        ==>    KL-Divergence is:   0.248422
+	 tsquare             ==>    KL-Divergence is:   0.079586
+	 facebook_woocomp    ==>    KL-Divergence is:   0.283491
+	 yahoo-cache         ==>    KL-Divergence is:   0.232302
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.370402
+
+Experiment 6
+	Add Probability: 0.25
+	Drop Probability: 0.0
+	Range 1 Count: 146.2061
+	Range 2 Count: 8.5036
+	Range 3 Count: 12.7969
+	Range 4 Count: 129.1617
+	Finish time: 15.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.001865
+	 tmp                 ==>    KL-Divergence is:   0.087527
+	 facebook            ==>    KL-Divergence is:   0.293778
+	 msn                 ==>    KL-Divergence is:   0.315587
+	 espn_woocomp        ==>    KL-Divergence is:   0.265335
+	 tsquare             ==>    KL-Divergence is:   0.087527
+	 facebook_woocomp    ==>    KL-Divergence is:   0.302186
+	 yahoo-cache         ==>    KL-Divergence is:   0.248533
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.392424
+
+Experiment 7
+	Add Probability: 0.3
+	Drop Probability: 0.0
+	Range 1 Count: 178.5752
+	Range 2 Count: 9.6186
+	Range 3 Count: 15.3624
+	Range 4 Count: 158.2887
+	Finish time: 17.5
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.034821
+	 tmp                 ==>    KL-Divergence is:   0.094386
+	 facebook            ==>    KL-Divergence is:   0.307736
+	 msn                 ==>    KL-Divergence is:   0.331857
+	 espn_woocomp        ==>    KL-Divergence is:   0.279709
+	 tsquare             ==>    KL-Divergence is:   0.094386
+	 facebook_woocomp    ==>    KL-Divergence is:   0.318043
+	 yahoo-cache         ==>    KL-Divergence is:   0.262333
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.411068
+
+Experiment 8
+	Add Probability: 0.0
+	Drop Probability: 0.05
+	Range 1 Count: 66.5683
+	Range 2 Count: 6.1151
+	Range 3 Count: 5.874
+	Range 4 Count: 54.6044
+	Finish time: 135.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.792868
+	 tmp                 ==>    KL-Divergence is:   0.052889
+	 facebook            ==>    KL-Divergence is:   0.204416
+	 msn                 ==>    KL-Divergence is:   0.216237
+	 espn_woocomp        ==>    KL-Divergence is:   0.180166
+	 tsquare             ==>    KL-Divergence is:   0.052889
+	 facebook_woocomp    ==>    KL-Divergence is:   0.205917
+	 yahoo-cache         ==>    KL-Divergence is:   0.163737
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.279834
+
+Experiment 9
+	Add Probability: 0.05
+	Drop Probability: 0.05
+	Range 1 Count: 77.8476
+	Range 2 Count: 6.4956
+	Range 3 Count: 6.8808
+	Range 4 Count: 64.7564
+	Finish time: 127.5
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.835444
+	 tmp                 ==>    KL-Divergence is:   0.059094
+	 facebook            ==>    KL-Divergence is:   0.221985
+	 msn                 ==>    KL-Divergence is:   0.236036
+	 espn_woocomp        ==>    KL-Divergence is:   0.196889
+	 tsquare             ==>    KL-Divergence is:   0.059094
+	 facebook_woocomp    ==>    KL-Divergence is:   0.225065
+	 yahoo-cache         ==>    KL-Divergence is:   0.180485
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.302311
+
+Experiment 10
+	Add Probability: 0.1
+	Drop Probability: 0.05
+	Range 1 Count: 92.3732
+	Range 2 Count: 6.9572
+	Range 3 Count: 8.1603
+	Range 4 Count: 77.7043
+	Finish time: 135.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.880092
+	 tmp                 ==>    KL-Divergence is:   0.066132
+	 facebook            ==>    KL-Divergence is:   0.240423
+	 msn                 ==>    KL-Divergence is:   0.257120
+	 espn_woocomp        ==>    KL-Divergence is:   0.214773
+	 tsquare             ==>    KL-Divergence is:   0.066132
+	 facebook_woocomp    ==>    KL-Divergence is:   0.245482
+	 yahoo-cache         ==>    KL-Divergence is:   0.198318
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.326218
+
+Experiment 11
+	Add Probability: 0.15000000000000002
+	Drop Probability: 0.05
+	Range 1 Count: 111.1716
+	Range 2 Count: 7.5368
+	Range 3 Count: 9.7928
+	Range 4 Count: 94.4313
+	Finish time: 150.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.925843
+	 tmp                 ==>    KL-Divergence is:   0.073840
+	 facebook            ==>    KL-Divergence is:   0.259460
+	 msn                 ==>    KL-Divergence is:   0.279002
+	 espn_woocomp        ==>    KL-Divergence is:   0.233440
+	 tsquare             ==>    KL-Divergence is:   0.073840
+	 facebook_woocomp    ==>    KL-Divergence is:   0.266696
+	 yahoo-cache         ==>    KL-Divergence is:   0.216858
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.351012
+
+Experiment 12
+	Add Probability: 0.2
+	Drop Probability: 0.05
+	Range 1 Count: 136.669
+	Range 2 Count: 8.3167
+	Range 3 Count: 11.8775
+	Range 4 Count: 117.2068
+	Finish time: 155.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.973199
+	 tmp                 ==>    KL-Divergence is:   0.082684
+	 facebook            ==>    KL-Divergence is:   0.279491
+	 msn                 ==>    KL-Divergence is:   0.301954
+	 espn_woocomp        ==>    KL-Divergence is:   0.253397
+	 tsquare             ==>    KL-Divergence is:   0.082684
+	 facebook_woocomp    ==>    KL-Divergence is:   0.289002
+	 yahoo-cache         ==>    KL-Divergence is:   0.236353
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.377173
+
+Experiment 13
+	Add Probability: 0.25
+	Drop Probability: 0.05
+	Range 1 Count: 171.8127
+	Range 2 Count: 9.571
+	Range 3 Count: 14.6739
+	Range 4 Count: 147.9957
+	Finish time: 175.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.011125
+	 tmp                 ==>    KL-Divergence is:   0.090326
+	 facebook            ==>    KL-Divergence is:   0.295480
+	 msn                 ==>    KL-Divergence is:   0.320571
+	 espn_woocomp        ==>    KL-Divergence is:   0.269759
+	 tsquare             ==>    KL-Divergence is:   0.090326
+	 facebook_woocomp    ==>    KL-Divergence is:   0.307132
+	 yahoo-cache         ==>    KL-Divergence is:   0.252133
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.398480
+
+Experiment 14
+	Add Probability: 0.3
+	Drop Probability: 0.05
+	Range 1 Count: 222.7437
+	Range 2 Count: 11.1773
+	Range 3 Count: 18.5615
+	Range 4 Count: 192.8207
+	Finish time: 197.5
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.056223
+	 tmp                 ==>    KL-Divergence is:   0.099855
+	 facebook            ==>    KL-Divergence is:   0.314692
+	 msn                 ==>    KL-Divergence is:   0.342898
+	 espn_woocomp        ==>    KL-Divergence is:   0.289537
+	 tsquare             ==>    KL-Divergence is:   0.099855
+	 facebook_woocomp    ==>    KL-Divergence is:   0.328897
+	 yahoo-cache         ==>    KL-Divergence is:   0.271095
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.424068
+
+Experiment 15
+	Add Probability: 0.0
+	Drop Probability: 0.1
+	Range 1 Count: 69.2067
+	Range 2 Count: 6.471
+	Range 3 Count: 5.7466
+	Range 4 Count: 54.281
+	Finish time: 177.5
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.772270
+	 tmp                 ==>    KL-Divergence is:   0.053270
+	 facebook            ==>    KL-Divergence is:   0.193457
+	 msn                 ==>    KL-Divergence is:   0.207850
+	 espn_woocomp        ==>    KL-Divergence is:   0.174216
+	 tsquare             ==>    KL-Divergence is:   0.053270
+	 facebook_woocomp    ==>    KL-Divergence is:   0.198085
+	 yahoo-cache         ==>    KL-Divergence is:   0.155826
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.271359
+
+Experiment 16
+	Add Probability: 0.05
+	Drop Probability: 0.1
+	Range 1 Count: 82.419
+	Range 2 Count: 6.8903
+	Range 3 Count: 6.8425
+	Range 4 Count: 65.7321
+	Finish time: 190.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.821671
+	 tmp                 ==>    KL-Divergence is:   0.060306
+	 facebook            ==>    KL-Divergence is:   0.213714
+	 msn                 ==>    KL-Divergence is:   0.230668
+	 espn_woocomp        ==>    KL-Divergence is:   0.193512
+	 tsquare             ==>    KL-Divergence is:   0.060306
+	 facebook_woocomp    ==>    KL-Divergence is:   0.220149
+	 yahoo-cache         ==>    KL-Divergence is:   0.175085
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.297348
+
+Experiment 17
+	Add Probability: 0.1
+	Drop Probability: 0.1
+	Range 1 Count: 100.3122
+	Range 2 Count: 7.3887
+	Range 3 Count: 8.3238
+	Range 4 Count: 81.2475
+	Finish time: 195.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.877217
+	 tmp                 ==>    KL-Divergence is:   0.068901
+	 facebook            ==>    KL-Divergence is:   0.236677
+	 msn                 ==>    KL-Divergence is:   0.256783
+	 espn_woocomp        ==>    KL-Divergence is:   0.215662
+	 tsquare             ==>    KL-Divergence is:   0.068901
+	 facebook_woocomp    ==>    KL-Divergence is:   0.245431
+	 yahoo-cache         ==>    KL-Divergence is:   0.197180
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.326984
+
+Experiment 18
+	Add Probability: 0.15000000000000002
+	Drop Probability: 0.1
+	Range 1 Count: 124.8537
+	Range 2 Count: 8.1762
+	Range 3 Count: 10.3117
+	Range 4 Count: 102.5813
+	Finish time: 185.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.929449
+	 tmp                 ==>    KL-Divergence is:   0.077722
+	 facebook            ==>    KL-Divergence is:   0.258680
+	 msn                 ==>    KL-Divergence is:   0.281705
+	 espn_woocomp        ==>    KL-Divergence is:   0.237024
+	 tsquare             ==>    KL-Divergence is:   0.077722
+	 facebook_woocomp    ==>    KL-Divergence is:   0.269594
+	 yahoo-cache         ==>    KL-Divergence is:   0.218358
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.355266
+
+Experiment 19
+	Add Probability: 0.2
+	Drop Probability: 0.1
+	Range 1 Count: 160.7103
+	Range 2 Count: 9.3299
+	Range 3 Count: 13.0462
+	Range 4 Count: 133.5828
+	Finish time: 195.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.982642
+	 tmp                 ==>    KL-Divergence is:   0.087799
+	 facebook            ==>    KL-Divergence is:   0.281309
+	 msn                 ==>    KL-Divergence is:   0.307516
+	 espn_woocomp        ==>    KL-Divergence is:   0.259558
+	 tsquare             ==>    KL-Divergence is:   0.087799
+	 facebook_woocomp    ==>    KL-Divergence is:   0.294689
+	 yahoo-cache         ==>    KL-Divergence is:   0.240309
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.384724
+
+Experiment 20
+	Add Probability: 0.25
+	Drop Probability: 0.1
+	Range 1 Count: 215.6012
+	Range 2 Count: 11.0128
+	Range 3 Count: 16.9948
+	Range 4 Count: 180.7559
+	Finish time: 195.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.038576
+	 tmp                 ==>    KL-Divergence is:   0.099418
+	 facebook            ==>    KL-Divergence is:   0.305242
+	 msn                 ==>    KL-Divergence is:   0.335079
+	 espn_woocomp        ==>    KL-Divergence is:   0.283969
+	 tsquare             ==>    KL-Divergence is:   0.099418
+	 facebook_woocomp    ==>    KL-Divergence is:   0.321548
+	 yahoo-cache         ==>    KL-Divergence is:   0.263747
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.416321
+
+Experiment 21
+	Add Probability: 0.3
+	Drop Probability: 0.1
+	Range 1 Count: 308.9733
+	Range 2 Count: 13.6335
+	Range 3 Count: 23.8918
+	Range 4 Count: 261.5841
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.102922
+	 tmp                 ==>    KL-Divergence is:   0.112518
+	 facebook            ==>    KL-Divergence is:   0.332929
+	 msn                 ==>    KL-Divergence is:   0.366959
+	 espn_woocomp        ==>    KL-Divergence is:   0.311828
+	 tsquare             ==>    KL-Divergence is:   0.112518
+	 facebook_woocomp    ==>    KL-Divergence is:   0.352573
+	 yahoo-cache         ==>    KL-Divergence is:   0.290948
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.452500
+
+Experiment 22
+	Add Probability: 0.0
+	Drop Probability: 0.15000000000000002
+	Range 1 Count: 72.3604
+	Range 2 Count: 6.928
+	Range 3 Count: 5.5958
+	Range 4 Count: 53.8494
+	Finish time: 195.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.747725
+	 tmp                 ==>    KL-Divergence is:   0.054304
+	 facebook            ==>    KL-Divergence is:   0.180927
+	 msn                 ==>    KL-Divergence is:   0.198237
+	 espn_woocomp        ==>    KL-Divergence is:   0.167546
+	 tsquare             ==>    KL-Divergence is:   0.054304
+	 facebook_woocomp    ==>    KL-Divergence is:   0.189139
+	 yahoo-cache         ==>    KL-Divergence is:   0.146863
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.261566
+
+Experiment 23
+	Add Probability: 0.05
+	Drop Probability: 0.15000000000000002
+	Range 1 Count: 87.9811
+	Range 2 Count: 7.4124
+	Range 3 Count: 6.772
+	Range 4 Count: 66.8389
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.804252
+	 tmp                 ==>    KL-Divergence is:   0.062180
+	 facebook            ==>    KL-Divergence is:   0.204008
+	 msn                 ==>    KL-Divergence is:   0.224115
+	 espn_woocomp        ==>    KL-Divergence is:   0.189526
+	 tsquare             ==>    KL-Divergence is:   0.062180
+	 facebook_woocomp    ==>    KL-Divergence is:   0.214164
+	 yahoo-cache         ==>    KL-Divergence is:   0.168663
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.291198
+
+Experiment 24
+	Add Probability: 0.1
+	Drop Probability: 0.15000000000000002
+	Range 1 Count: 110.1884
+	Range 2 Count: 8.0612
+	Range 3 Count: 8.4918
+	Range 4 Count: 85.2411
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.866130
+	 tmp                 ==>    KL-Divergence is:   0.071390
+	 facebook            ==>    KL-Divergence is:   0.229452
+	 msn                 ==>    KL-Divergence is:   0.253010
+	 espn_woocomp        ==>    KL-Divergence is:   0.213946
+	 tsquare             ==>    KL-Divergence is:   0.071390
+	 facebook_woocomp    ==>    KL-Divergence is:   0.242119
+	 yahoo-cache         ==>    KL-Divergence is:   0.193079
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.323998
+
+Experiment 25
+	Add Probability: 0.15000000000000002
+	Drop Probability: 0.15000000000000002
+	Range 1 Count: 142.9242
+	Range 2 Count: 8.9915
+	Range 3 Count: 10.9091
+	Range 4 Count: 112.7467
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.933445
+	 tmp                 ==>    KL-Divergence is:   0.082806
+	 facebook            ==>    KL-Divergence is:   0.257857
+	 msn                 ==>    KL-Divergence is:   0.285063
+	 espn_woocomp        ==>    KL-Divergence is:   0.241532
+	 tsquare             ==>    KL-Divergence is:   0.082806
+	 facebook_woocomp    ==>    KL-Divergence is:   0.273204
+	 yahoo-cache         ==>    KL-Divergence is:   0.220317
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.360466
+
+Experiment 26
+	Add Probability: 0.2
+	Drop Probability: 0.15000000000000002
+	Range 1 Count: 195.1338
+	Range 2 Count: 10.4946
+	Range 3 Count: 14.5647
+	Range 4 Count: 156.9902
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.004293
+	 tmp                 ==>    KL-Divergence is:   0.096256
+	 facebook            ==>    KL-Divergence is:   0.288413
+	 msn                 ==>    KL-Divergence is:   0.319421
+	 espn_woocomp        ==>    KL-Divergence is:   0.271608
+	 tsquare             ==>    KL-Divergence is:   0.096256
+	 facebook_woocomp    ==>    KL-Divergence is:   0.306605
+	 yahoo-cache         ==>    KL-Divergence is:   0.249643
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.399666
+
+Experiment 27
+	Add Probability: 0.25
+	Drop Probability: 0.15000000000000002
+	Range 1 Count: 290.9806
+	Range 2 Count: 13.028
+	Range 3 Count: 21.2931
+	Range 4 Count: 239.143
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.087552
+	 tmp                 ==>    KL-Divergence is:   0.112614
+	 facebook            ==>    KL-Divergence is:   0.324714
+	 msn                 ==>    KL-Divergence is:   0.360313
+	 espn_woocomp        ==>    KL-Divergence is:   0.307314
+	 tsquare             ==>    KL-Divergence is:   0.112614
+	 facebook_woocomp    ==>    KL-Divergence is:   0.346363
+	 yahoo-cache         ==>    KL-Divergence is:   0.284669
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.446046
+
+Experiment 28
+	Add Probability: 0.3
+	Drop Probability: 0.15000000000000002
+	Range 1 Count: 500.2773
+	Range 2 Count: 18.2373
+	Range 3 Count: 34.8187
+	Range 4 Count: 422.0173
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.183244
+	 tmp                 ==>    KL-Divergence is:   0.133832
+	 facebook            ==>    KL-Divergence is:   0.367660
+	 msn                 ==>    KL-Divergence is:   0.408165
+	 espn_woocomp        ==>    KL-Divergence is:   0.350154
+	 tsquare             ==>    KL-Divergence is:   0.133832
+	 facebook_woocomp    ==>    KL-Divergence is:   0.393033
+	 yahoo-cache         ==>    KL-Divergence is:   0.325874
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.500703
+
+Experiment 29
+	Add Probability: 0.0
+	Drop Probability: 0.2
+	Range 1 Count: 73.2674
+	Range 2 Count: 7.4455
+	Range 3 Count: 5.24
+	Range 4 Count: 51.3431
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.708055
+	 tmp                 ==>    KL-Divergence is:   0.054711
+	 facebook            ==>    KL-Divergence is:   0.162904
+	 msn                 ==>    KL-Divergence is:   0.182457
+	 espn_woocomp        ==>    KL-Divergence is:   0.156048
+	 tsquare             ==>    KL-Divergence is:   0.054711
+	 facebook_woocomp    ==>    KL-Divergence is:   0.174303
+	 yahoo-cache         ==>    KL-Divergence is:   0.132860
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.244693
+
+Experiment 30
+	Add Probability: 0.05
+	Drop Probability: 0.2
+	Range 1 Count: 89.9816
+	Range 2 Count: 7.8552
+	Range 3 Count: 6.4998
+	Range 4 Count: 64.8433
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.775164
+	 tmp                 ==>    KL-Divergence is:   0.062423
+	 facebook            ==>    KL-Divergence is:   0.189814
+	 msn                 ==>    KL-Divergence is:   0.212474
+	 espn_woocomp        ==>    KL-Divergence is:   0.180977
+	 tsquare             ==>    KL-Divergence is:   0.062423
+	 facebook_woocomp    ==>    KL-Divergence is:   0.203235
+	 yahoo-cache         ==>    KL-Divergence is:   0.158066
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.278908
+
+Experiment 31
+	Add Probability: 0.1
+	Drop Probability: 0.2
+	Range 1 Count: 113.8345
+	Range 2 Count: 8.4357
+	Range 3 Count: 8.1981
+	Range 4 Count: 84.1296
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.847758
+	 tmp                 ==>    KL-Divergence is:   0.072893
+	 facebook            ==>    KL-Divergence is:   0.219672
+	 msn                 ==>    KL-Divergence is:   0.246013
+	 espn_woocomp        ==>    KL-Divergence is:   0.209438
+	 tsquare             ==>    KL-Divergence is:   0.072893
+	 facebook_woocomp    ==>    KL-Divergence is:   0.235676
+	 yahoo-cache         ==>    KL-Divergence is:   0.186389
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.317166
+
+Experiment 32
+	Add Probability: 0.15000000000000002
+	Drop Probability: 0.2
+	Range 1 Count: 150.8958
+	Range 2 Count: 9.2617
+	Range 3 Count: 10.7362
+	Range 4 Count: 114.4543
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   0.932004
+	 tmp                 ==>    KL-Divergence is:   0.086903
+	 facebook            ==>    KL-Divergence is:   0.255158
+	 msn                 ==>    KL-Divergence is:   0.285935
+	 espn_woocomp        ==>    KL-Divergence is:   0.243781
+	 tsquare             ==>    KL-Divergence is:   0.086903
+	 facebook_woocomp    ==>    KL-Divergence is:   0.274383
+	 yahoo-cache         ==>    KL-Divergence is:   0.220296
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.362637
+
+Experiment 33
+	Add Probability: 0.2
+	Drop Probability: 0.2
+	Range 1 Count: 212.2179
+	Range 2 Count: 10.6565
+	Range 3 Count: 14.9899
+	Range 4 Count: 166.9982
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.026169
+	 tmp                 ==>    KL-Divergence is:   0.103463
+	 facebook            ==>    KL-Divergence is:   0.296327
+	 msn                 ==>    KL-Divergence is:   0.331167
+	 espn_woocomp        ==>    KL-Divergence is:   0.282879
+	 tsquare             ==>    KL-Divergence is:   0.103463
+	 facebook_woocomp    ==>    KL-Divergence is:   0.318252
+	 yahoo-cache         ==>    KL-Divergence is:   0.259121
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.413854
+
+Experiment 34
+	Add Probability: 0.25
+	Drop Probability: 0.2
+	Range 1 Count: 320.547
+	Range 2 Count: 12.8738
+	Range 3 Count: 22.5201
+	Range 4 Count: 262.4943
+	Finish time: 0.0
+
+	Comparing fingerprint to calculate divergence
+	 ask_woocomp         ==>    KL-Divergence is:   1.132335
+	 tmp                 ==>    KL-Divergence is:   0.123465
+	 facebook            ==>    KL-Divergence is:   0.343627
+	 msn                 ==>    KL-Divergence is:   0.383078
+	 espn_woocomp        ==>    KL-Divergence is:   0.327889
+	 tsquare             ==>    KL-Divergence is:   0.123465
+	 facebook_woocomp    ==>    KL-Divergence is:   0.368644
+	 yahoo-cache         ==>    KL-Divergence is:   0.303910
+	 yahoo_woocomp       ==>    KL-Divergence is:   0.472344

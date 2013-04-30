@@ -1,0 +1,18 @@
+Comparing Results for /home/ndauten/Desktop/data/testMSN
+Total Packets: 196.000000
+Fingerprint,KL-Divergence,Number of Packets,Total Packet Deviation,Match
+Tsquare-cache,0.371282,134.000000,62.000000,no
+amazon,0.105334,210.000000,14.000000,yes
+apple,0.023407,121.000000,75.000000,no
+ask,0.059795,98.000000,98.000000,no
+ask_woocomp,0.040132,90.000000,106.000000,no
+espn_woocomp,0.174175,253.000000,57.000000,no
+facebook-caceh,0.096203,24.000000,172.000000,no
+facebook_woocomp,0.173890,21.000000,175.000000,no
+fox,0.112724,347.000000,151.000000,no
+meebo,0.026857,153.000000,43.000000,no
+msn_woocomp,0.166877,216.000000,20.000000,yes
+yahoo-cache,0.178764,117.000000,79.000000,no
+yahoo_woocomp,0.132042,142.000000,54.000000,no
+gmail,0.017909,26.000000,170.000000,no
+google_woocomp,0.042547,24.000000,172.000000,no

@@ -1,0 +1,78 @@
+\documentclass[10pt]{article}
+
+\usepackage{fullpage}
+\title{Tor Fingerprinting Attack: Project Plan}
+\author{Nathan Dautenhahn}
+\begin{document}
+\maketitle
+
+\section{Introduction}
+This document will define the initial project direction and time-line.
+The general overview of our approach consists of several phases. Phase 1
+will be to conduct general purpose research, in which the team will learn
+about the Tor architecture. Once a general understanding of the Tor 
+architecture is gained the team will focus on an in depth analysis of 
+the different modules that are directly related to the fingerprinting
+attack. In this way we will be able to understand Tor from the overall 
+perspective, and then get in depth coverage where it matters most. This
+will allow us to get up to speed on Tor as quickly as possible allotting
+maximum time to perform implementation of the attack. Phase 2 will 
+consist of the team brainstorming several attack vectors based upon our
+previous research. Once this phase is completed we will validate the 
+options and start implementation. 
+
+\section{Road Map}
+Meetings will be conducted weekly to allow for quick feedback to change
+the direction of the project if needed. 
+
+\subsection{Tor Research (2 weeks)}
+\begin{itemize}
+	\item \textbf{(1 week)} Tor Architecture: read literature about how 
+		Tor works at general architecture level. 
+	\item \textbf{(1 week)} In Depth Research: read literature specific to the 
+		fingerprinting attack. At this point we will define three
+		focuses for further research that will be given as a task to each 
+		member. In doing this we will cover more ground than if we all 
+		performed the same research. 
+\end{itemize}
+
+
+\subsection{Brainstorming (2 weeks)}
+This phase will consist of a brainstorming session in which we discuss the 
+potential ways to implement our fingerprinting attack. We will come up with 
+several ideas that we will then research in order to check the validity 
+of each approach. 
+\paragraph{}Some of the questions this phase should answer are: 
+\begin{itemize}
+	\item What type of signature will we use to fingerprint the websites?  
+	\item Where will we attempt to perform fingerprinting?
+	\item Will we analyze encrypted packets? 
+	\item Any other questions???
+\end{itemize}
+
+\subsection{Implementation (4 weeks???)}
+Self explanatory implementation period should extend from all prior research.
+
+\section{Meeting Agendas}
+\begin{enumerate}
+	\item Meeting 9.26.09 4:30pm CSL 221
+		\begin{itemize} 
+			\item Identify specific areas to understand better that directly 
+				correlate to the fingerprinting attack 
+			\item Assign research for the next week
+		\end{itemize}
+	\item Meeting TBD
+		\begin{itemize}
+			\item Present research findings
+			\item Brainstorm attack vectors based on findings
+			\item Next week will consists of researching the possible
+				attack vectors
+		\end{itemize}
+	\item Meeting TBD
+		\begin{itemize}
+			\item Present findings
+			\item More brainstorming
+			\item If prepared start testing out implementation opportunities
+		\end{itemize}
+\end{enumerate}
+\end{document}

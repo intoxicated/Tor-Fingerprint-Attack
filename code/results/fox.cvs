@@ -1,0 +1,18 @@
+Comparing Results for /home/ndauten/Desktop/data/testFOX
+Total Packets: 220.000000
+Fingerprint,KL-Divergence,Number of Packets,Total Packet Deviation,Match
+Tsquare-cache,0.108560,134.000000,86.000000,no
+amazon,0.004326,210.000000,10.000000,yes
+apple,0.136145,121.000000,99.000000,no
+ask,0.018516,98.000000,122.000000,no
+ask_woocomp,0.132498,90.000000,130.000000,no
+espn_woocomp,0.026241,253.000000,33.000000,yes
+facebook-caceh,0.014643,24.000000,196.000000,no
+facebook_woocomp,0.009665,21.000000,199.000000,no
+fox,0.002978,347.000000,127.000000,no
+meebo,0.091531,153.000000,67.000000,no
+msn_woocomp,0.007077,216.000000,4.000000,yes
+yahoo-cache,0.008709,117.000000,103.000000,no
+yahoo_woocomp,0.017952,142.000000,78.000000,no
+gmail,0.075359,26.000000,194.000000,no
+google_woocomp,0.124448,24.000000,196.000000,no
