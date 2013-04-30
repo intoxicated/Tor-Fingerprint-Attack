@@ -56,3 +56,5 @@ docs/ConferenceSubmission/latex-example/Makefile
 *.odp
 
 *.ods
+
+docs/FinalReport/.DS_Store
