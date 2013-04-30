@@ -3,6 +3,6 @@ Tor Fingerprint Attack
 
 Research on Tor project
 
-Credit:
-    Nathan Dautenhahn (Ph.D. UIUC)
-    Wooyoung Chung (M.S. JMS, B.S. UIUC)
+Credits:
+    Nathan Dautenhahn (Ph.D. University of Illinois at Urbana Champaign)
+    Wooyoung Chung (M.S. James Madison University, B.S. University of Illinois at Urbana Champaign)
